@@ -1,0 +1,3 @@
+Josue|Garcia|samuel89067@gmail.com|3573-3580|Masculino|20|3090-22-6887|Ingenieria en Sistemas|S|Ya mijo ya|Caminadora|50|33|
+Mariano|Guitierrez|julio@gmail.com|3266-2200|Masculino|20|4090-22-5655|Psicologia|L|Hola|Jardin|01|9|
+Josefino|Leon|moises@gmail.com|3522-5620|Masculino|18|5090-22-6523|Derecho|M|Titan Speakerman|Otro|04|55|

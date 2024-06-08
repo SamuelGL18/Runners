@@ -1,0 +1,8 @@
+Samuel|Garcia|samuel89067@gmail.com|3266-2200|Masculino|20|3090-22-6887|Ingenieria en Sistemas|L|Sekiro|Jardin|||
+Mariano|Guitierrez|mariano@gmail.com|3266-2200|Masculino|20|5090-22-5005|Derecho|L|Code|Caminadora|2|20|
+Gabriel|Lopreto|gabriel@gmail.com|3266-2200|Masculino|20|4090-22-5655|Psicologia|L|File|Otro|3|19|
+Dina|Lux|dina@gmail.com|3266-2200|Femenino|20|4090-22-5111|Psicologia|L|Java|Otro|4|10|
+Belsi|Balcazar|belsi@gmail.com|3266-2200|Femenino|20|4090-22-8565|Psicologia|L|Windows|Jardin|5|15|
+Fernanda|Sosa|fernanda@gmail.com|3266-2200|Femenino|20|4090-22-7542|Psicologia|L|Hi|Caminadora|6|7|
+Alejandra|Lopez|alejandra@gmail.com|3266-2200|Femenino|20|4090-22-1023|Psicologia|L|Saludos|Caminadora|7|25|
+Emerson|Cayax|emerson@gmail.com|3266-2200|Masculino|20|5090-22-5633|Derecho|L|Hola|Caminadora|8|6|
